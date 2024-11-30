@@ -1,0 +1,12 @@
+img{
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+}
+.hobbies{
+    /* text-decoration: None;
+    color: light; */
+}
+pre{
+    font-family: inherit;
+}
